@@ -1,7 +1,7 @@
 ## Neural Networks
 https://arxiv.org/pdf/2307.13270.pdf
 https://www.youtube.com/watch?v=wAlPh6HGr9E
-
+https://arxiv.org/pdf/2307.13270.pdf
 https://proceedings.neurips.cc/paper/1992/hash/08c5433a60135c32e34f46a71175850c-Abstract.html
 
 ## Neuroscience

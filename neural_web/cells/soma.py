@@ -1,0 +1,1 @@
+# Soma serves as a gating mechanism within the cell, allowing the neuron to decrease or "turn off" signals

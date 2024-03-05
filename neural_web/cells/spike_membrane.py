@@ -1,0 +1,1 @@
+# spiking nnet mechanism - membrane potential

@@ -60,12 +60,13 @@ def log_timeit(func: Callable, logger: Optional):
 
 
 def decay_learning_rate(lr, final_lr = .001):
+    # TODO: add in the sigmoid decay
     decay = .75
     return max(lr * decay, final_lr)
 
 
 def cosine_similarity(u, v):
-    '''Angualr similarity between two vectors, u and v
+    '''Angualar similarity between two vectors, u and v
     u, v = word vectors for indiviudal words, output from our word2vec w2v.word_vec('input')
     if highly similar, return is close to 1
     if highly dissimilar, return is close to -1

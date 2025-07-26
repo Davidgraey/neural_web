@@ -4,6 +4,9 @@ decrease or gate incoming signals
 '''
 from organelle import Organelle
 
+import logging
+logger = logging.getLogger("neural_web")
+
 class Soma(Organelle):
     pass
 

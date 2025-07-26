@@ -2,6 +2,8 @@
 Generic or broadly applicable utility functions for neural webs
 """
 import time
+import logging
+logger = logging.getLogger("neural_web")
 from typing import Optional, Callable
 from datetime import datetime, timedelta
 from functools import lru_cache, wraps
